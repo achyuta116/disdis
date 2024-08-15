@@ -1,0 +1,11 @@
+{
+  "name": "annoyer",
+  "version": "0.0.1",
+  "description": "Annoy users and help out sometimes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
